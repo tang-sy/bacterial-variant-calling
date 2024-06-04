@@ -76,7 +76,7 @@ Provide a step-by-step guide on how to reproduce the analysis:
 
 ## Contributors
 ### Main Contributor
-- [Tang Shiying](https://github.com/yourusername) - Main contributor, responsible for the code and documentation in this repository.
+- [Tang-sy](https://github.com/tang-sy) - Main contributor, responsible for the code and documentation in this repository.
 ### Acknowledgments
 - Group Members: LAM King Kin, LAM Yuk Yan, LUO Jingjing 
 
@@ -85,5 +85,3 @@ Provide a step-by-step guide on how to reproduce the analysis:
 - **Scripts and Automation**: Make sure your scripts (`download_data.sh`, `trim_filter_data.sh`, `mapping.sh`, and `variant_calling.sh`) are well-documented and included in your repository.
 - **Results Section**: You can include links to result files or more detailed descriptions of your findings in the Results section.
 - **Contributors and License**: Fill in the Contributors section with the names of people who contributed to the project and specify the license under which the project is distributed.
-
-This structure provides a clear, organized README.md file that makes it easy for others to understand and reproduce your work.
