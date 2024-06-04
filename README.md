@@ -76,7 +76,7 @@ Provide a step-by-step guide on how to reproduce the analysis:
 
 ## Contributors
 ### Main Contributor
-- [Tang-sy](https://github.com/tang-sy) - Main contributor, responsible for the code and documentation in this repository.
+- [tang-sy](https://github.com/tang-sy) - Main contributor, responsible for the code and documentation in this repository.
 ### Acknowledgments
 - Group Members: LAM King Kin, LAM Yuk Yan, LUO Jingjing 
 
